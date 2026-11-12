@@ -4,7 +4,7 @@
 
 ### Canadian Journal of Forest Research
 
-### Code DOI: 
+### Code DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24149825.svg)](https://doi.org/10.5281/zenodo.24149825)
 
 ### Please contact the first author for questions: Jeffrey W. Doser (jwdoser@ncsu.edu)
 
