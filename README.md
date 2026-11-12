@@ -2,7 +2,7 @@
 
 ### [Jeffrey W. Doser](https://doserlab.com/), Safiullah Khurram, Mujeeburahman Ariez, Mohammad Nasir Shalizi, John W. Groninger
 
-### In review
+### Canadian Journal of Forest Research
 
 ### Code DOI: 
 
